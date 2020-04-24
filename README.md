@@ -1,1 +1,1 @@
-# covid-19-startup
+# covid-19-Israel-tracker
